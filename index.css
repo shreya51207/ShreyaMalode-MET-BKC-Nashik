@@ -1,0 +1,40 @@
+.colour-section{
+    background-color: rgb(226, 215, 220);
+}
+
+.rapo-section {
+    font-weight: bold;
+    font-size: small;
+    padding-left: 15%;
+    font-size: 20px;
+}
+
+.title-section{
+    color: rgb(74, 133, 135);
+    text-align: center;
+}
+.content-me-section{
+    font-size: 19px;
+    border-radius: 20px;
+    border-color: aliceblue;
+
+}
+.Aboutme-section {
+text-align: center;
+font-size: 15px;
+font-weight: bold;
+
+}
+.contact-me-section{
+    text-align: right;
+}
+
+.image-section{
+    border-radius: 40%;
+    border-width: 1cap;
+    width: 200px;
+}
+
+
+
+
